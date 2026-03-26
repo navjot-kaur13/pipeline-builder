@@ -44,3 +44,10 @@ pip install fastapi uvicorn
 uvicorn main:app --reload
 
 
+
+
+## 🎥 Demo Video
+
+A short screen recording demonstrating node creation, connection, and pipeline validation.
+
+[Watch Demo Video](https://drive.google.com/file/d/1HjyXuoxl330oeC6sRIwc2mO3sRSEhCEU/view?usp=sharing)
